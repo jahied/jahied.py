@@ -423,8 +423,8 @@ if len(sys.argv) == 2:
 		print(" [*] Team      : -- \n")
 		print(" [ Sosial Medi  ] -- \n")
 		print(" [*] Facebook  : https://facebook.com/ROOT.OFF.JAHIED")
-		print(" [*] Instagram : https://instagram.com/bd.jahied")
-		print(" [*] Groups   : https://facebook.com/groups/367443570366706")
+		print(" [*] Instagram : --/n")
+		print(" [*] Facebook  : https://facebook.com/ROOT.OFF.JAHIED")
 		exit(" [*] GitHub    : https://github.com/jahied ")
 	else:
 		Main()
