@@ -134,7 +134,7 @@ class Main:
 				GET = '\r'
 			else:
 				key = ("\033[0;97m -")
-				stat = ("\033[0;97mFREE USER")
+				stat = ("\033[0;97mPAID USER")
 				FY = '\033[0;90m'
 				FG = '\033[0;90m'
 				GET = '\033[0;97m [P] GET PREMIUM'
@@ -172,7 +172,7 @@ class Main:
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("───────────────────────────────────────────────────────× ")
-		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m JOIN MY GROUP FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
+		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m JOIN MY GROUPS FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
 		subprocess.check_output(["am", "start", "https://facebook.com/group/367443570366706"])
 		print("───────────────────────────────────────────────────────× ")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(paid.tools)"%(G,R,G,Y,B))
@@ -424,7 +424,7 @@ if len(sys.argv) == 2:
 		print(" [ Sosial Medi  ] -- \n")
 		print(" [*] Facebook  : https://facebook.com/ROOT.OFF.JAHIED")
 		print(" [*] Instagram : https://instagram.com/bd.jahied")
-		print(" [*] Group   : https://facebook.com/groups/367443570366706")
+		print(" [*] Groups   : https://facebook.com/groups/367443570366706")
 		exit(" [*] GitHub    : https://github.com/jahied ")
 	else:
 		Main()
