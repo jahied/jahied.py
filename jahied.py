@@ -175,7 +175,7 @@ class Main:
 		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m JOIN MY GROUP FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
 		subprocess.check_output(["am", "start", "https://facebook.com/group/367443570366706"])
 		print("───────────────────────────────────────────────────────× ")
-		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free Trail)"%(G,R,G,Y,B))
+		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(paid.tools)"%(G,R,G,Y,B))
 		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ")
 		print("───────────────────────────────────────────────────────× ")
 		if tanya in ["", " "]:
@@ -424,7 +424,7 @@ if len(sys.argv) == 2:
 		print(" [ Sosial Medi  ] -- \n")
 		print(" [*] Facebook  : https://facebook.com/ROOT.OFF.JAHIED")
 		print(" [*] Instagram : https://instagram.com/bd.jahied")
-		print(" [*] YouTube   : https://facebook.com/group/367443570366706")
+		print(" [*] Group   : https://facebook.com/group/367443570366706")
 		exit(" [*] GitHub    : https://github.com/jahied ")
 	else:
 		Main()
