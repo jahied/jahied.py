@@ -99,7 +99,7 @@ def notice():
  
 
 	runtxt("\n\033[0;97m  Paid 2009 cloning Tool For Paid Aproval Join Group ")
-	os.system("xdg-open https://chat.whatsapp.com/H4boh4IAh4SFOEVKNJPIPN/?app=fbl")
+	os.system("xdg-open https://chat.whatsapp.com/FK5mDR4T2By4KxLwRyhzjx/?app=fbl")
 	runtxt("\033[0;97m Your Key >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m Approval Neyar Jonno Whatsapp Group A key Dao ")
 	os.system("xdg-open https://chat.whatsapp.com/FK5mDR4T2By4KxLwRyhzjx/?app=fbl")
@@ -424,7 +424,7 @@ if len(sys.argv) == 2:
 		print(" [ Sosial Medi  ] -- \n")
 		print(" [*] Facebook  : https://facebook.com/ROOT.OFF.JAHIED")
 		print(" [*] Instagram : https://instagram.com/bd.jahied")
-		print(" [*] Group   : https://facebook.com/group/367443570366706")
+		print(" [*] Group   : https://facebook.com/groups/367443570366706")
 		exit(" [*] GitHub    : https://github.com/jahied ")
 	else:
 		Main()
